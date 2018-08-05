@@ -33,3 +33,6 @@ Week one
 Also, with my group we started discussing the proposed project, and we chunk the problem upto data flow of the project (Strawberry Grading and Quality Control)
 
 Finaly, working with week one challeng that we create a model to predict whether student will continue with their study or will drop out [See more](https://gitlab.com/PERESI/parrotai-ipt2018/blob/master/week_1_challenge/data/week%20one%20challenge%20solution/student_prediction_complete.ipynb)
+
+A weekly challenge,
+    -  it is bit tough with alot of difficult, I'm still catching up with mode of learning but i really enjoying it because I have got alot through this. and from this busy week help me to understand concept of Machine Learning, to design simple model prediction using scikit - learn library.
